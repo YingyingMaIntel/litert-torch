@@ -43,6 +43,7 @@ _KNOWN_EXTRA_KWARGS = frozenset({
     "audio_include_mask_inputs",
     "audio_mel_frames",
     "audio_num_layers",
+    "elide_rmsnorm_final_scale",
     "gemma4_vision_max_soft_tokens",
     "litert_samples_conversion_dir",
     "llm_intermediate_size",
